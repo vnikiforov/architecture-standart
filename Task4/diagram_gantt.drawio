@@ -1,0 +1,163 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Диаграмма Ганта: Депозиты Онлайн MVP" id="GanttDiagram">
+    <mxGraphModel dx="1106" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="timeline" value="" style="shape=line;strokeWidth=2;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="300" y="40" width="1080" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="month_0" value="Окт 2025" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="270" y="15" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="month_1" value="Ноя 2025" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="456" y="15" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="month_2" value="Дек 2025" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="636" y="15" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="month_3" value="Янв 2026" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="822" y="15" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="month_4" value="Фев 2026" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1008" y="15" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="month_5" value="Мар 2026" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1176" y="15" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="task_0" value="Проект: Депозиты Онлайн MVP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#2C3E50;strokeColor=#1A252F;fontSize=14;fontStyle=1;gradientColor=#34495E;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="300" y="100" width="1062" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label_0" value="Проект: Депозиты Онлайн MVP" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=4;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_1" value="Фаза 1: Базовая функциональность (10 нед)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#3498DB;strokeColor=#2980B9;fontSize=12;fontStyle=1;gradientColor=#5DADE2;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="300" y="145" width="408" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label_1" value="Фаза 1: Базовая функциональность (10 нед)" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=4;fontSize=12;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="50" y="145" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_2" value="Сайт: компонент отображения депозитов&#xa;Команда сайта" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#4A90E2;strokeColor=#357ABD;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="300" y="190" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_3" value="Сайт: форма заявки на депозит&#xa;Команда сайта" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#4A90E2;strokeColor=#357ABD;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="426" y="230" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_4" value="ИК: расширение API для заявок&#xa;Команда ИК" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#50E3C2;strokeColor=#3BBF9D;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="342" y="270" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_5" value="Бэк-офис: модернизация интеграции&#xa;Команда бэк-офиса" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#F5A623;strokeColor=#D6901F;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="342" y="310" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_6" value="АБС: интеграция депозитных продуктов&#xa;Команда АБС" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#BD10E0;strokeColor=#8B0DA5;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="384" y="350" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_7" value="БД: модификация схемы данных&#xa;Команда БД" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#7ED321;strokeColor=#67B017;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="300" y="390" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_8" value="Фаза 2: Интеграция с АБС и СМС (6 нед)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#3498DB;strokeColor=#2980B9;fontSize=12;fontStyle=1;gradientColor=#5DADE2;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="720" y="430" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label_8" value="Фаза 2: Интеграция с АБС и СМС (6 нед)" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=4;fontSize=12;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="50" y="430" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_9" value="ИК: интеграция с СМС-шлюзом&#xa;Команда ИК" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#50E3C2;strokeColor=#3BBF9D;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="720" y="475" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_10" value="Бэк-офис: доработка обработки заявок&#xa;Команда бэк-офиса" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#F5A623;strokeColor=#D6901F;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="762" y="515" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_11" value="АБС: расширение API для статусов&#xa;Команда АБС" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#BD10E0;strokeColor=#8B0DA5;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="720" y="555" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_12" value="Тестирование интеграции&#xa;QA команда" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#D0021B;strokeColor=#A80116;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="852" y="595" width="508" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_13" value="Фаза 3: Поддержка кол-центров (4 нед)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#3498DB;strokeColor=#2980B9;fontSize=12;fontStyle=1;gradientColor=#5DADE2;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="972" y="635" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label_13" value="Фаза 3: Поддержка кол-центров (4 нед)" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=4;fontSize=12;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="50" y="635" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_14" value="Бэк-офис: интерфейсы для кол-центра&#xa;Команда бэк-офиса" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#F5A623;strokeColor=#D6901F;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="972" y="680" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_15" value="Бэк-офис: файловый экспорт для партнеров&#xa;Команда бэк-офиса" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#F5A623;strokeColor=#D6901F;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="1056" y="720" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_16" value="Интеграционное тестирование кол-центров&#xa;QA команда" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#D0021B;strokeColor=#A80116;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="1098" y="760" width="262" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_17" value="Фаза 4: Тестирование и безопасность (4 нед)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#3498DB;strokeColor=#2980B9;fontSize=12;fontStyle=1;gradientColor=#5DADE2;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="590" y="800" width="772" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label_17" value="Фаза 4: Тестирование и безопасность (4 нед)" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=4;fontSize=12;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="50" y="800" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_18" value="Полное тестирование системы&#xa;QA команда" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#D0021B;strokeColor=#A80116;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="590" y="845" width="770" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_19" value="Внедрение HTTPS&#xa;Команда безопасности" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#8B572A;strokeColor=#6F4522;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="1266" y="885" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_20" value="Настройка мониторинга&#xa;DevOps команда" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#417505;strokeColor=#315A04;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="1308" y="925" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="task_21" value="Пентест и исправление уязвимостей&#xa;Команда безопасности" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#8B572A;strokeColor=#6F4522;fontSize=10;shadow=1" parent="1" vertex="1">
+          <mxGeometry x="1308" y="965" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_title" value="Команды:" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1055" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_color_0" value="" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#4A90E2;strokeColor=#357ABD;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1095" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_label_0" value="Команда сайта" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="1095" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_color_1" value="" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#50E3C2;strokeColor=#3BBF9D;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1125" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_label_1" value="Команда ИК" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="1125" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_color_2" value="" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#F5A623;strokeColor=#D6901F;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1155" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_label_2" value="Команда бэк-офиса" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="1155" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_color_3" value="" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#BD10E0;strokeColor=#8B0DA5;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1185" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_label_3" value="Команда АБС" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="1185" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_color_4" value="" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#7ED321;strokeColor=#67B017;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1215" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_label_4" value="Команда БД" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="1215" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_color_5" value="" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#D0021B;strokeColor=#A80116;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1245" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_label_5" value="QA команда" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="1245" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_color_6" value="" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#8B572A;strokeColor=#6F4522;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1275" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_label_6" value="Команда безопасности" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="1275" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_color_7" value="" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#417505;strokeColor=#315A04;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1305" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_label_7" value="DevOps команда" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="1305" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
